@@ -5,6 +5,12 @@ Interactive HR analytics dashboard built using Google Looker Studio and IBM HR A
 ## Project Overview
 An interactive HR analytics dashboard built using Google Looker Studio and the IBM HR Analytics Employee Attrition dataset. The project analyzes workforce demographics, employee attrition patterns, job roles, departments, and salary trends to generate meaningful HR insights.
 
+## Live Dashboard
+
+Explore the interactive HR Workforce & Employee Attrition Dashboard:
+
+[View Live Dashboard](https://datastudio.google.com/reporting/ab917fb2-869b-406c-81b9-a01b6e396fd5)
+
 ## Business Objectives
 - Analyze overall employee attrition.
 - Understand workforce demographics.
